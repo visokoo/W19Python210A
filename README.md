@@ -1,12 +1,12 @@
-# Class Repository Template
+# Winter 2019 Python 210 A Repository
 
-**WARNING** This is a template -- it is not an actual class repo. Students should find the proper repo for their class, and make a fork of that.
+Class Repository Class notes are published here:
 
-This is a repo that serves as a template for a repository for a particular
-instance of a class for the [UWPCE Python Certificate](https://www.pce.uw.edu/certificates/python-programming).
+https://canvas.uw.edu/courses/1247283/pages/classnotes (External Link)
 
-Make a copy of this repo for each class, so that it can be used by the class to
-share information and for students to submit their work.
+This repository is used for submitting and reviewing student's work for the Winter 2019 classrooom section of University of Washington Continuing and Professional Education Python certificate program
+
+https://www.pce.uw.edu/certificates/python-programming (External Link)
 
 ## Structure of the Repo
 
