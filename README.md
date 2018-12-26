@@ -19,3 +19,4 @@ The class repo has three top level directories:
 * `students`: Used for the students to submit their work. Each student will create
 a directory, then store work for each exercise in a subdirectory of that.
 
+_Please review the instructions on how to use this site here:_ [GitHub Instructions](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Git.html)
